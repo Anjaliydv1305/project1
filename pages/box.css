@@ -1,0 +1,21 @@
+.c1{
+    border: 3px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-size: 30;
+    text-align: center;
+}
+.c2{
+    border: 4px dotted palevioletred;
+    margin: 20px;
+    padding: 30px;
+    font-size: 40;
+    text-align: center;
+}
+.c3{
+    border: 2px solid yellowgreen;
+    margin: 20px;
+    padding: 30px;
+    font-size: 30;
+    text-align: center;
+}
